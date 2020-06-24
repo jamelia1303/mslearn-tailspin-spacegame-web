@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jamelia1303/Games/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/jamelia1303/Games/_build/latest?definitionId=23&branchName=master)
 
 # Contributing
 
